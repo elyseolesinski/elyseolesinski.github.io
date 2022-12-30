@@ -3,7 +3,7 @@ permalink: /
 title: "About Me"
 excerpt: "Welcome to my Website"
 header:
-  overlay_image: background_4.jpeg
+  overlay_image: background_5.jpeg
 author_profile: true
 redirect_from: 
   - /about/
