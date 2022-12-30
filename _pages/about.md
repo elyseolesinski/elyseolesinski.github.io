@@ -10,7 +10,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello 👋🏻, and welcome to my website! My name is Elyse Olesinski, and I am an MD Candidate at the [Boston University Chobanian & Avedisian School of Medicine](https://www.bumc.bu.edu/busm/). I received my Bachelors in Biology with Specializations in Cell Biology, Molecular Biology, and Genetics from [Boston University](https://www.bu.edu) and my Master in Public Health in Epidemiology/Biostatics and Mental Health from [Boston University School of Public Health](https://www.bu.edu/sph/). 
+Hello 👋🏻, and welcome to my website! My name is Elyse Olesinski, and I am an MD Candidate at the [Boston University Chobanian & Avedisian School of Medicine](https://www.bumc.bu.edu/busm/). I received my Bachelors in Biology with Specializations in Cell Biology, Molecular Biology, and Genetics from [Boston University](https://www.bu.edu) and my Master in Public Health in Epidemiology/Biostatistics and Mental Health from [Boston University School of Public Health](https://www.bu.edu/sph/). 
 
 Background
 ======
