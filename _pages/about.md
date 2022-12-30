@@ -3,7 +3,7 @@ permalink: /
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
 header:
-  overlay_image: background_2.jpeg
+  overlay_image: background_2.jpg
 author_profile: true
 redirect_from: 
   - /about/
