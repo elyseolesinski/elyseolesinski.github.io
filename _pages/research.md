@@ -7,6 +7,8 @@ redirect_from:
   -
 ---
 
+{% include base_path %}
+
 Project 1
 
 Project 2
