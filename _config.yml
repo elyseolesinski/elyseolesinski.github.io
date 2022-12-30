@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Elyse A. Olesinski"
 title_separator          : "-"
-name                     : &name "Elyse A. Olesinski"
+name                     : &name "Elyse A. Olesinski, MPH"
 description              : &description "MD Candidate at Boston University Chobanian & Avedisian School of Medicine"
 url                      : https://elyseolesinski.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
